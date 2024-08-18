@@ -14,16 +14,7 @@ export default function Hero() {
                     />
                     <div className="absolute inset-0 bg-gradient-to-r from-gray-900 via-gray-900 to-gray-900 opacity-80 -z-10"></div>
                 </div>
-                <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56 z-20">
-                    {/* <div className="hidden sm:mb-8 sm:flex sm:justify-center">
-                        <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-400 ring-1 ring-white/10 hover:ring-white/20">
-                        Announcing our next round of funding.{' '}
-                        <Link href="#" className="font-semibold text-white">
-                            <span aria-hidden="true" className="absolute inset-0" />
-                            Read more <span aria-hidden="true">&rarr;</span>
-                        </Link>
-                        </div>
-                    </div> */}
+                <div className="mx-auto max-w-2xl py-32 px-8 md:px-0 sm:py-48 lg:py-56 z-20">
                     <div className="text-center">
                         <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
                             Han&apos;s Photo Video Inkject

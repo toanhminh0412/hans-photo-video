@@ -10,42 +10,48 @@ const features = [
         description:
         'We produce passport photos according to a variety of country specific requirements, including Canada, USA, Australia, Brazil, China, Europe, India, Iran, Japan, Korea, New Zealand, Philippine, Russia, Taiwan, Vietnam, and more!',
         icon: faPassport,
-        href: '/id-passport-photos',
+        // href: '/id-passport-photos',
+        href: '#'
     },
     {
         name: 'Headshots & Portraits',
         description:
         "Business Headshots, Actor's Headshots, Linkedin Headshots, Profile Pictures, Family Portraits, Children's Portraits, Graduation Portraits.",
         icon: faPortrait,
-        href: '/headshots-portraits',
+        // href: '/headshots-portraits',
+        href: '#'
     },
     {
         name: 'Film/Video/Audio Transfer',
         description:
         'Bring your videotapes and film reels to be transferred from their original analog formats into digital video.',
         icon: faFilm,
-        href: '/filmvideoaudio-transfer',
+        // href: '/filmvideoaudio-transfer',
+        href: '#'
     },
     {
         name: 'Photo Restoration/Edit',
         description:
         'Bring in your treasurable old memories, and Hanns Photo Video will bring them back to life with our high tech photo retouching.',
         icon: faImage,
-        href: '/photo-restorationedit',
+        // href: '/photo-restorationedit',
+        href: '#'
     },
     {
         name: 'Ink Refill',
         description:
         'We strongly recommend replacing or refilling empty ink cartridges as soon as they run out and refrain from printing on an empty cartridge, as this will damage your printhead.',
         icon: faPaintBrush,
-        href: '/ink-refill',
+        // href: '/ink-refill',
+        href: '#'
     },
     {
         name: 'SHOP INK & TONER',
         description:
         'Save your money by buying compatible toner/ink cartridges at Hanns Photo Video.',
         icon: faCartShopping,
-        href: '/shop-ink-toner',
+        // href: '/shop-ink-toner',
+        href: '#'
     },
 ]
 

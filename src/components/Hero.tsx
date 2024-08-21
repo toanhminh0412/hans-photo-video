@@ -17,7 +17,7 @@ export default function Hero() {
                 <div className="mx-auto max-w-2xl py-32 px-8 md:px-0 sm:py-48 lg:py-56 z-20">
                     <div className="text-center">
                         <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
-                            Han&apos;s Photo Video Inkject
+                            Hanns Photo Video Inkject
                         </h1>
                         <p className="mt-6 text-lg leading-8 text-gray-300">
                             A local, family-run business located in Victoria, BC since 2011. Committed to provide excellent, quality service to all.
